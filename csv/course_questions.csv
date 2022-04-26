@@ -1,0 +1,166 @@
+course_name,section_difficulty_level,section_name,subsection_difficulty_level,subsection_name,exercise_number,status,question,question_type,choice1,choice2,choice3,choice4,correct_answer,correct,incorrect
+Arithmetic,1,Natural Number,1,Addition,1,true,1 + 1 = <ans>,fill_in_the_blank,3,4,5,2,1 + 1 = 2,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,1 + 2 = <ans>,fill_in_the_blank,3,4,5,2,1 + 2 = 3,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,2 + 1 = <ans>,fill_in_the_blank,1,4,3,2,2 + 1 = 3,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,5 + <ans> = <ans> + 6 = 11,fill_in_the_blank,7,8,1,9,5 + 6 = 5 + 6 = 11,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,3 + <ans> = 3 + <ans> = 7,fill_in_the_blank,11,10,15,12,3 + 4 = 3 + 4 = 7,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,7 + 8 = <ans> + 8 = <ans>,fill_in_the_blank,16,10,12,15,7 + 8 = 7 + 8 = 15,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,9 + 2 = 9 + <ans> = <ans>,fill_in_the_blank,8,9,11,12,9 + 2 = 9 + 2 = 11,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,8 + 8 = ,multiple_choice,33,14,16,0,16,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,4 + 8 = ,multiple_choice,5,4,15,12,12,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,5 + 7 = ,multiple_choice,11,10,12,22,12,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,7 + 1 = ,multiple_choice,6,8,5,9,8,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,2 + 8 = ,multiple_choice,9,6,10,12,10,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,3 + 5 = ,multiple_choice,8,9,7,6,8,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,9 + 1 = ,multiple_choice,8,10,11,12,10,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,1,true,9 + 9 = ,multiple_choice,18,0,17,19,18,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,8 + 8 = <ans>,fill_in_the_blank,33,14,16,0,8 + 8 = 16,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,4 + 8 = <ans>,fill_in_the_blank,5,4,15,12,4 + 8 = 12,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,5 + 7 = <ans>,fill_in_the_blank,11,10,12,22,5 + 7 = 12,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,7 + 1 = <ans>,fill_in_the_blank,6,8,5,9,7 + 1 = 8,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,2 + 8 = <ans>,fill_in_the_blank,9,6,10,12,2 + 8 = 10,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,3 + 5 = <ans>,fill_in_the_blank,8,9,7,6,3 + 5 = 8,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,9 + 1 = <ans>,fill_in_the_blank,8,10,11,12,9 + 1 = 10,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,9 + 9 = <ans>,fill_in_the_blank,18,0,17,19,9 + 9 = 18,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,1 + 1 = ,multiple_choice,3,4,5,2,2,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,1 + 2 = ,multiple_choice,3,4,5,2,3,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,2 + 1 = ,multiple_choice,1,4,3,2,3,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,3 + 4 = ,multiple_choice,7,8,1,9,7,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,5 + 6 = ,multiple_choice,11,10,15,12,11,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,7 + 8 = ,multiple_choice,16,10,12,15,15,Correct!,Incorrect!
+Arithmetic,1,Natural Number,1,Addition,2,true,9 + 2 = ,multiple_choice,8,9,11,12,11,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,1 - 1 = <ans>,fill_in_the_blank,3,4,5,2,1 - 1 = 0,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,1 - 2 = <ans>,fill_in_the_blank,3,4,5,2,1 - 2 = -1,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,2 - 1 = <ans>,fill_in_the_blank,1,4,3,2,2 - 1 = 1,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,3 - 4 = <ans>,fill_in_the_blank,7,8,1,9,3 - 4 = -1,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,5 - 6 = <ans>,fill_in_the_blank,11,10,15,12,5 - 6 = 1,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,7 - 8 = <ans>,fill_in_the_blank,16,10,12,15,7 - 8 = -1,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,9 - 2 = <ans>,fill_in_the_blank,8,9,11,12,9 - 2 = 7,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,8 - 8 = <ans>,fill_in_the_blank,33,14,16,0,8 - 8 = 0,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,8 - 4 = <ans>,fill_in_the_blank,5,4,15,12,8 - 4 = 4,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,7 - 5 = <ans>,fill_in_the_blank,11,10,12,22,7 - 5 = 2,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,7 - 1 = <ans>,fill_in_the_blank,6,8,5,9,7 - 1 = 6,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,8 - 2 = <ans>,fill_in_the_blank,9,6,10,12,8 - 2 = 6,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,5 - 3 = <ans>,fill_in_the_blank,8,9,7,6,5 - 3 = 2,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,9 - 1 = <ans>,fill_in_the_blank,8,10,11,12,9 - 1 = 8,Correct!,Incorrect!
+Arithmetic,1,Natural Number,2,Subtraction,1,true,9 - 9 = <ans>,fill_in_the_blank,18,0,17,19,9 - 9 = 0,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,1 x 1 = <ans>,fill_in_the_blank,3,4,5,2,1 x 1 = 1,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,1 x 2 = <ans>,fill_in_the_blank,3,4,5,2,1 x 2 = 2,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,2 x 1 = <ans>,fill_in_the_blank,1,4,3,2,2 x 1 = 2,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,3 x 4 = <ans>,fill_in_the_blank,7,8,1,9,3 x 4 = 12,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,5 x 6 = <ans>,fill_in_the_blank,11,10,15,12,5 x 6 = 30,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,7 x 8 = <ans>,fill_in_the_blank,16,10,12,15,7 x 8 = 56,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,9 x 2 = <ans>,fill_in_the_blank,8,9,11,12,9 x 2 = 18,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,8 x 8 = <ans>,fill_in_the_blank,33,14,16,0,8 x 8 = 64,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,4 x 8 = <ans>,fill_in_the_blank,5,4,15,12,4 x 8 = 32,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,5 x 7 = <ans>,fill_in_the_blank,11,10,12,22,5 x 7 = 35,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,7 x 1 = <ans>,fill_in_the_blank,6,8,5,9,7 x 1 = 7,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,2 x 8 = <ans>,fill_in_the_blank,9,6,10,12,2 x 8 = 16,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,3 x 5 = <ans>,fill_in_the_blank,8,9,7,6,3 x 5 = 15,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,9 x 1 = <ans>,fill_in_the_blank,8,10,11,12,9 x 1 = 9,Correct!,Incorrect!
+Arithmetic,1,Natural Number,3,Multiplication,1,true,9 x 9 = <ans>,fill_in_the_blank,18,0,17,19,9 x 9 = 81,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,1 / 1 = <ans>,fill_in_the_blank,3,4,5,2,1 / 1 = 1,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,2 / 1 = <ans>,fill_in_the_blank,3,4,5,2,2 / 1 = 2,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,1 / 2 = <ans>,fill_in_the_blank,1,4,3,2,1 / 2 = 0.5,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,8 / 4 = <ans>,fill_in_the_blank,7,8,1,9,8 / 4 = 2,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,6 / 2 = <ans>,fill_in_the_blank,11,10,15,12,6 / 2 = 3,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,3 / 1 = <ans>,fill_in_the_blank,16,10,12,15,3 / 1 = 3,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,9 / 2 = <ans>,fill_in_the_blank,8,9,11,12,9 / 2 = 4.5,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,8 / 8 = <ans>,fill_in_the_blank,33,14,16,0,8 / 8 = 1,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,8 / 1 = <ans>,fill_in_the_blank,5,4,15,12,8 / 1 = 8,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,9 / 3 = <ans>,fill_in_the_blank,11,10,12,22,9 / 3 = 3,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,7 / 1 = <ans>,fill_in_the_blank,6,8,5,9,7 / 1 = 7,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,8 / 2 = <ans>,fill_in_the_blank,9,6,10,12,8 / 2 = 4,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,10 / 5 = <ans>,fill_in_the_blank,8,9,7,6,10 / 5 = 2,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,4 / 2 = <ans>,fill_in_the_blank,8,10,11,12,4 / 2 = 2,Correct!,Incorrect!
+Arithmetic,1,Natural Number,4,Division,1,true,9 / 9 = <ans>,fill_in_the_blank,18,0,17,19,9 / 9 = 1,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,70 + 2 = <ans>,fill_in_the_blank,18,0,17,19,70 + 2 = 72,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,80 + 3 = <ans>,fill_in_the_blank,18,0,17,19,80 + 3 = 83,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,30 + 4 = <ans>,fill_in_the_blank,18,0,17,19,30 + 4 = 26,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,20 + 5 = <ans>,fill_in_the_blank,18,0,17,19,20 + 5 = 25,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,90 + 2 = <ans>,fill_in_the_blank,18,0,17,19,90 + 2 = 82,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,60 + 8 = <ans>,fill_in_the_blank,18,0,17,19,60 + 8 = 68,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,70 + 9 = <ans>,fill_in_the_blank,18,0,17,19,70 + 9 = 79,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,40 + 3 = <ans>,fill_in_the_blank,18,0,17,19,40 + 3 = 43,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,50 + 5 = <ans>,fill_in_the_blank,18,0,17,19,50 + 5 = 55,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,80 + 8 = <ans>,fill_in_the_blank,18,0,17,19,80 + 8 = 88,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,90 + 7 = <ans>,fill_in_the_blank,18,0,17,19,90 + 7 = 97,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,20 + 6 = <ans>,fill_in_the_blank,18,0,17,19,20 + 6 = 26,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,30 + 1 = <ans>,fill_in_the_blank,18,0,17,19,30 + 1 = 31,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,80 + 4 = <ans>,fill_in_the_blank,18,0,17,19,80 + 4 = 84,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,1,Addition,1,true,70 + 7 = <ans>,fill_in_the_blank,18,0,17,19,70 + 7 = 77,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,70 - 2 = <ans>,fill_in_the_blank,18,0,17,19,70 - 2 = 68,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,80 - 3 = <ans>,fill_in_the_blank,18,0,17,19,80 - 3 = 77,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,30 - 1 = <ans>,fill_in_the_blank,18,0,17,19,30 - 1 = 29,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,20 - 5 = <ans>,fill_in_the_blank,18,0,17,19,20 - 5 = 15,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,90 - 3 = <ans>,fill_in_the_blank,18,0,17,19,90 - 3 = 87,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,60 - 8 = <ans>,fill_in_the_blank,18,0,17,19,60 - 8 = 52,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,70 - 7 = <ans>,fill_in_the_blank,18,0,17,19,70 - 7 = 63,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,40 - 3 = <ans>,fill_in_the_blank,18,0,17,19,40 - 3 = 37,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,50 - 5 = <ans>,fill_in_the_blank,18,0,17,19,50 - 5 = 45,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,80 - 8 = <ans>,fill_in_the_blank,18,0,17,19,80 - 8 = 72,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,90 - 7 = <ans>,fill_in_the_blank,18,0,17,19,90 - 7 = 83,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,20 - 6 = <ans>,fill_in_the_blank,18,0,17,19,20 - 6 = 12,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,30 - 3 = <ans>,fill_in_the_blank,18,0,17,19,30 - 3 = 27,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,80 - 4 = <ans>,fill_in_the_blank,18,0,17,19,80 - 4 = 76,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,2,Subtraction,2,true,70 - 9 = <ans>,fill_in_the_blank,18,0,17,19,70 - 9 = 61,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,70 x 2 = <ans>,fill_in_the_blank,18,0,17,19,70 x 2 = 140,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,80 x 3 = <ans>,fill_in_the_blank,18,0,17,19,80 x 3 = 240,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,30 x 1 = <ans>,fill_in_the_blank,18,0,17,19,30 x 1 = 30,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,20 x 5 = <ans>,fill_in_the_blank,18,0,17,19,20 x 5 = 100,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,90 x 3 = <ans>,fill_in_the_blank,18,0,17,19,90 x 3 = 270,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,60 x 8 = <ans>,fill_in_the_blank,18,0,17,19,60 x 8 = 480,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,70 x 7 = <ans>,fill_in_the_blank,18,0,17,19,70 x 7 = 490,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,40 x 3 = <ans>,fill_in_the_blank,18,0,17,19,40 x 3 = 120,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,50 x 5 = <ans>,fill_in_the_blank,18,0,17,19,50 x 5 = 250,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,80 x 8 = <ans>,fill_in_the_blank,18,0,17,19,80 x 8 = 640,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,90 x 7 = <ans>,fill_in_the_blank,18,0,17,19,90 x 7 = 630,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,20 x 6 = <ans>,fill_in_the_blank,18,0,17,19,20 x 6 = 120,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,30 x 3 = <ans>,fill_in_the_blank,18,0,17,19,30 x 3 = 90,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,80 x 4 = <ans>,fill_in_the_blank,18,0,17,19,80 x 4 = 320,Correct!,Incorrect!
+Conceptual Math,1,Natural Number,3,Multiplication,3,true,70 x 9 = <ans>,fill_in_the_blank,18,0,17,19,70 x 9 = 630,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,1/2 + 1/2 = <ans>,fill_in_the_blank,3,4,5,2,1/2 + 1/2 = 1,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,1/4 + 3/4 = <ans>,fill_in_the_blank,3,4,5,2,1/4 + 3/4 = 1,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,2 1/2 + 1 1/2 = <ans>,fill_in_the_blank,1,4,3,2,2 1/2 + 1 1/2 = 4,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,3 1/2 + 4 1/2 = <ans>,fill_in_the_blank,7,8,1,9,3 1/2 + 4 1/2 = 8,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,5 1/4 + 6 3/4 = <ans>,fill_in_the_blank,11,10,15,12,5 1/4 + 6 3/4 = 12,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,7 1/3 + 8 2/3 = <ans>,fill_in_the_blank,16,10,12,15,7 1/3 + 8 2/3 = 16,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,9 1/3 + 2 2/3 = <ans>,fill_in_the_blank,8,9,11,12,9 1/3 + 2 2/3 = 12,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,8 1/4 + 8 3/4 = <ans>,fill_in_the_blank,33,14,16,0,8 1/4 + 8 3/4 = 17,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,4 1/2 + 8 = <ans>,fill_in_the_blank,5,4,15,12,4 1/2 + 8 = 12 1/2,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,5 + 7 1/2 = <ans>,fill_in_the_blank,11,10,12,22,5 + 7 1/2 = 12 1/2,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,7 3/4 + 1 1/4 = <ans>,fill_in_the_blank,6,8,5,9,7 3/4 + 1 1/4 = 9,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,2 3/4 + 8 1/4 = <ans>,fill_in_the_blank,9,6,10,12,2 3/4 + 8 1/4 = 11,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,3 1/2 + 5 = <ans>,fill_in_the_blank,8,9,7,6,3 1/2 + 5 = 8 1/2,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,9 1/2 + 1/2 = <ans>,fill_in_the_blank,8,10,11,12,9 1/2 + 1/2 = 10,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,1,true,9 1/2 + 9 1/2 = <ans>,fill_in_the_blank,18,0,17,19,9 1/2 + 9 1/2 = 19,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,1/2 + 1/2 = <ans>,fill_in_the_blank,3,4,5,2,1/2 + 1/2 = 1,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,1/4 + 3/4 = <ans>,fill_in_the_blank,3,4,5,2,1/4 + 3/4 = 1,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,2 1/2 + 1 1/2 = <ans>,fill_in_the_blank,1,4,3,2,2 1/2 + 1 1/2 = 4,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,3 1/2 + 4 1/2 = <ans>,fill_in_the_blank,7,8,1,9,3 1/2 + 4 1/2 = 8,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,5 1/4 + 6 3/4 = <ans>,fill_in_the_blank,11,10,15,12,5 1/4 + 6 3/4 = 12,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,7 1/3 + 8 2/3 = <ans>,fill_in_the_blank,16,10,12,15,7 1/3 + 8 2/3 = 16,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,9 1/3 + 2 2/3 = <ans>,fill_in_the_blank,8,9,11,12,9 1/3 + 2 2/3 = 12,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,8 1/4 + 8 3/4 = <ans>,fill_in_the_blank,33,14,16,0,8 1/4 + 8 3/4 = 17,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,4 1/2 + 8 = <ans>,fill_in_the_blank,5,4,15,12,4 1/2 + 8 = 12 1/2,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,5 + 7 1/2 = <ans>,fill_in_the_blank,11,10,12,22,5 + 7 1/2 = 12 1/2,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,7 3/4 + 1 1/4 = <ans>,fill_in_the_blank,6,8,5,9,7 3/4 + 1 1/4 = 9,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,2 3/4 + 8 1/4 = <ans>,fill_in_the_blank,9,6,10,12,2 3/4 + 8 1/4 = 11,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,3 1/2 + 5 = <ans>,fill_in_the_blank,8,9,7,6,3 1/2 + 5 = 8 1/2,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,9 1/2 + 1/2 = <ans>,fill_in_the_blank,8,10,11,12,9 1/2 + 1/2 = 10,Correct!,Incorrect!
+Arithmetic,2,Rational,1,Addition,2,true,9 1/2 + 9 1/2 = <ans>,fill_in_the_blank,18,0,17,19,9 1/2 + 9 1/2 = 19,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,1/2 - 1/2 = <ans>,fill_in_the_blank,3,4,5,2,1/2 - 1/2 = 0,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,1 1/4 - 1/4 = <ans>,fill_in_the_blank,3,4,5,2,1 1/4 - 1/4 = 1,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,5 1/2 - 1 1/2 = <ans>,fill_in_the_blank,1,4,3,2,5 1/2 - 1 1/2 = 4,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,7 1/2 - 4 1/2 = <ans>,fill_in_the_blank,7,8,1,9,7 1/2 - 4 1/2 = 3,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,5 1/4 - 1/4 = <ans>,fill_in_the_blank,11,10,15,12,5 1/4 - 1/4 = 5,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,10 2/3 - 8 2/3 = <ans>,fill_in_the_blank,16,10,12,15,10 2/3 - 8 2/3 = 2,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,9 1/3 - 2 1/3 = <ans>,fill_in_the_blank,8,9,11,12,9 1/3 - 2 1/3 = 7,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,8 1/4 - 8 1/4 = <ans>,fill_in_the_blank,33,14,16,0,8 1/4 - 8 1/4 = 0,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,4 1/2 - 1 = <ans>,fill_in_the_blank,5,4,15,12,4 1/2 - 1 = 3 1/2,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,14 - 7 1/2 = <ans>,fill_in_the_blank,11,10,12,22,14 - 7 1/2 = 6 1/2,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,7 1/4 - 1 1/4 = <ans>,fill_in_the_blank,6,8,5,9,7 1/4 - 1 1/4 = 6,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,2 3/4 - 1 3/4 = <ans>,fill_in_the_blank,9,6,10,12,2 3/4 - 1 3/4 = 1,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,3 1/2 - 2 = <ans>,fill_in_the_blank,8,9,7,6,3 1/2 - 2 = 1 1/2,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,9 1/2 - 1/2 = <ans>,fill_in_the_blank,8,10,11,12,9 1/2 - 1/2 = 9,Correct!,Incorrect!
+Arithmetic,2,Rational,2,Subtraction,1,true,9 1/2 - 9 1/2 = <ans>,fill_in_the_blank,18,0,17,19,9 1/2 - 9 1/2 = 0,Correct!,Incorrect!

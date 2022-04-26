@@ -1,0 +1,2 @@
+Sample,Description,Exercise Number,Question Types,Tags,Status,Number to Draw,Seed,Save Seed,Timed Type,Timed Limit,Passing Criterium,Text Before Start,Text After End,Moving Allowed,Instant Feedback,Editing Allowed,Draw by Tag,Shuffled,Help
+True,Sample Description,10,"{""FITBT"", ""MULCH""}","{""+"", ""tables""}",True,10,10,True,per_question,30,5,Sample,Sample,True,True,True,True,True,True

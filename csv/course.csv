@@ -1,0 +1,6 @@
+difficulty_level,course_name,description,requirements,status
+1,Arithmetic,"Learn basic arithmetic skills with whole numbers, decimal numbers and fractions.",None,TRUE
+2,Conceptual Math,Learn essential math concepts you need in everyday life.,Arithmetic level 1,TRUE
+3,Contextual Math,Learn to calculate in the context of story sums.,Arithmetic level 1; Conceptual Math level 1,
+4,Algebra,Learn essential algebraic skills.,Arithmetic level 1; Conceptual Math level 1,
+5,Calculus,Learn calculus.,Arithmetic level 1; Conceptual Math level 1,

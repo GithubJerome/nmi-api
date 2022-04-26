@@ -1,0 +1,239 @@
+﻿word,type,language,translation
+correct,text,english,correct
+correct,text,dutch,correct
+incorrect,text,english,incorrect
+incorrect,text,dutch,niet correct
+Correct,text,english,Correct
+Correct,text,dutch,Correct
+Incorrect,text,english,Incorrect
+Incorrect,text,dutch,Niet correct
+minutes,text,english,minutes
+minutes,text,dutch,minuten
+day,text,english,day
+day,text,dutch,dag
+days,text,english,days
+days,text,dutch,dagen
+Pass,text,english,Pass
+Pass,text,dutch,Voldoende
+Not Pass,text,english,Not Pass
+Not Pass,text,dutch,Onvoldoende
+No answer given,sentence,english,No answer given
+No answer given,sentence,dutch,Geen antwoord gegeven
+You cannot skip this question,sentence,english,You cannot skip this question
+You cannot skip this question,sentence,dutch,U kunt deze vraag niet overslaan
+Arithmetic,text,english,Arithmetic
+Arithmetic,text,dutch,Rekenen
+Conceptual Math,text,english,Conceptual Math
+Conceptual Math,text,dutch,Rekenconcepten
+Contextual Math,text,english,Contextual Math
+Contextual Math,text,dutch,Verhaalsommen
+Algebra,text,english,Algebra
+Algebra,text,dutch,Algebra
+Calculus,text,english,Calculus
+Calculus,text,dutch,Calculus
+"Learn basic arithmetic skills with whole numbers, decimal numbers and fractions.",sentence,english,"Learn basic arithmetic skills with whole numbers, decimal numbers and fractions."
+"Learn basic arithmetic skills with whole numbers, decimal numbers and fractions.",sentence,dutch,"Leer alle basisrekenvaardigheden met gehele getallen, kommagetallen en breuken."
+Learn essential math concepts you need in everyday life.,sentence,english,Learn essential math concepts you need in everyday life.
+Learn essential math concepts you need in everyday life.,sentence,dutch,Leer essenti?®le rekenconcepten die je nodig hebt in het dagelijkse leven.
+Learn to calculate in the context of story sums.,sentence,english,Learn to calculate in the context of story sums.
+Learn to calculate in the context of story sums.,sentence,dutch,Leer rekenen in de context van verhaalsommen.
+Learn essential algebraic skills.,sentence,english,Learn essential algebraic skills.
+Learn essential algebraic skills.,sentence,dutch,Leer essentiele algebra??sche vaardigheden.
+Learn calculus.,sentence,english,Learn calculus.
+Learn calculus.,sentence,dutch,Leer calculus.
+new levels,text,english,new levels
+new levels,text,dutch,nieuwe niveaus
+reminders,text,english,reminders
+reminders,text,dutch,herinneringen
+new tasks,text,english,new tasks
+new tasks,text,dutch,nieuwe taken
+new medals,text,english,new medals
+new medals,text,dutch,nieuwe medailles
+Matching-type,text,english,Matching-type
+Matching-type,text,dutch,Bijpassend-type
+Multiple Response,text,english,Multiple Response
+Multiple Response,text,dutch,Meerdere Reacties
+Fill in the Blanks,text,english,Fill in the Blanks
+Fill in the Blanks,text,dutch,Vul de lege plekken in
+Multiple Choice,text,english,Multiple Choice
+Multiple Choice,text,dutch,Meerkeuze
+Fill in the Blanks Drag and Drop,text,english,Fill in the Blanks Drag and Drop
+Fill in the Blanks Drag and Drop,text,dutch,Vul de lege plekken in slepen en neerzetten
+TRUE,text,english,TRUE
+TRUE,text,dutch,waar
+FALSE,text,english,FALSE
+FALSE,text,dutch,FALSE
+minutes,text,english,minutes
+minutes,text,dutch,minuten
+Exercise,text,english,Exercise
+Exercise,text,dutch,Oefening
+Question,text,english,Question
+Question,text,dutch,Vraag
+Correct Answer,text,english,Correct Answer
+Correct Answer,text,dutch,Juist antwoord
+Answer,text,english,Answer
+Answer,text,dutch,Antwoord
+Invalid Token,sentence,english,Invalid Token
+Invalid Token,sentence,dutch,Token ongeldig
+Course not found,sentence,english,Course not found
+Course not found,sentence,dutch,Cursus niet gevonden
+Please check your query!,sentence,english,Please check your query!
+Please check your query!,sentence,dutch,Controleer query!
+Course successfully created!,sentence,english,Course successfully created!
+Course successfully created!,sentence,dutch,Cursus aangemaakt!
+Course successfully deleted!,sentence,english,Course successfully deleted!
+Course successfully deleted!,sentence,dutch,Cursus verwijderd!
+Course successfully updated!,sentence,english,Course successfully updated!
+Course successfully updated!,sentence,dutch,Cursus geupdatet!
+Course is in use!,sentence,english,Course is in use!
+Course is in use!,sentence,dutch,Cursus is in gebruik!
+Question Type is required,sentence,english,Question Type is required
+Question Type is required,sentence,dutch,Vraagtype is verplicht
+Exercise successfully created!,sentence,english,Exercise successfully created!
+Exercise successfully created!,sentence,dutch,Oefening aangemaakt!
+No File!,sentence,english,No File!
+No File!,sentence,dutch,Geen bestand!
+File Type Not Allowed!,sentence,english,File Type Not Allowed!
+File Type Not Allowed!,sentence,dutch,Bestandstype niet toegestaan!
+No Question ID found,sentence,english,No Question ID found
+No Question ID found,sentence,dutch,Geen Question ID gevonden
+Course exercise not found,sentence,english,Course exercise not found
+Course exercise not found,sentence,dutch,Cursusoefening niet gevonden
+Exercise not found,sentence,english,Exercise not found
+Exercise not found,sentence,dutch,Oefening niet gevonden
+Failed to generate questions,sentence,english,Failed to generate questions
+Failed to generate questions,sentence,dutch,Genereren van vragen niet gelukt
+New set of questions has been successfully generated,sentence,english,New set of questions has been successfully generated
+New set of questions has been successfully generated,sentence,dutch,Nieuwe vragenset gegenereerd
+Help already exist!,sentence,english,Help already exist!
+Help already exist!,sentence,dutch,Help bestaat al!
+Help successfully created,sentence,english,Help successfully created
+Help successfully created,sentence,dutch,Help aangemaakt
+Help successfully deleted!,sentence,english,Help successfully deleted!
+Help successfully deleted!,sentence,dutch,Help verwijderd!
+No available video for this skill!,sentence,english,No available video for this skill!
+No available video for this skill!,sentence,dutch,Geen video beschikbaar voor deze vaardigheid!
+Help successfully updated!,sentence,english,Help successfully updated!
+Help successfully updated!,sentence,dutch,Help geupdatet!
+Instruction successfully created!,sentence,english,Instruction successfully created!
+Instruction successfully created!,sentence,dutch,Instructies aangemaakt!
+Issue successfully created!,sentence,english,Issue successfully created!
+Issue successfully created!,sentence,dutch,Issue aangemaakt!
+Notification successfully created!,sentence,english,Notification successfully created!
+Notification successfully created!,sentence,dutch,Melding aangemaakt!
+"Sorry, you have no rights to access this!",sentence,english,"Sorry, you have no rights to access this!"
+"Sorry, you have no rights to access this!",sentence,dutch,"Sorry, je hebt onvoldoende rechten voor toegang!"
+Username does not exist!,sentence,english,Username does not exist!
+Username does not exist!,sentence,dutch,Gebruikersnaam bestaat niet!
+"Invalid query, Missing parameter!",sentence,english,"Invalid query, Missing parameter!"
+"Invalid query, Missing parameter!",sentence,dutch,"Ongeldige Query, missende parameter!"
+"Sorry, you have no rights to add user!",sentence,english,"Sorry, you have no rights to add user!"
+"Sorry, you have no rights to add user!",sentence,dutch,"Sorry, je hebt onvoldoende rechten om gebruiker toe te voegen!"
+Username is already taken!,sentence,english,Username is already taken!
+Username is already taken!,sentence,dutch,Gebruikersnaam is bezet!
+Invalid email!,sentence,english,Invalid email!
+Invalid email!,sentence,dutch,Ongeldige email!
+User successfully created,sentence,english,User successfully created
+User successfully created,sentence,dutch,Gebruiker aangemaakt
+User(s) successfully deleted!,sentence,english,User(s) successfully deleted!
+User(s) successfully deleted!,sentence,dutch,Gebruiker verwijderd!
+Password successfully updated!,sentence,english,Password successfully updated!
+Password successfully updated!,sentence,dutch,Wachtwoord geupdatet!
+Invalid Username or Password!,sentence,english,Invalid Username or Password!
+Invalid Username or Password!,sentence,dutch,Ongeldige gebruikersnaam of wachtwoord
+User is deactivated!,sentence,english,User is deactivated!
+User is deactivated!,sentence,dutch,Gebruiker is gedeactiveerd!
+Successfully Logout!,sentence,english,Successfully Logout!
+Successfully Logout!,sentence,dutch,Uitgelogd!
+New Token generated!,sentence,english,New Token generated!
+New Token generated!,sentence,dutch,Nieuwe Token aangemaakt!
+Invalid Refresh Token,sentence,english,Invalid Refresh Token
+Invalid Refresh Token,sentence,dutch,Ongeldige Refresh Token
+Invalid username or Authentication key!,sentence,english,Invalid username or Authentication key!
+Invalid username or Authentication key!,sentence,dutch,Ongeldige gebruikersnaam of Authentication Key!
+Password successfully updated!,sentence,english,Password successfully updated!
+Password successfully updated!,sentence,dutch,Wachtwoord geupdatet!
+User Language successfully updated!,sentence,english,User Language successfully updated!
+User Language successfully updated!,sentence,dutch,Gebruikerstaal geupdatet!
+User successfully updated!,sentence,english,User successfully updated!
+User successfully updated!,sentence,dutch,Gebruiker geupdatet!
+Account does not exist,sentence,english,Account does not exist
+Account does not exist,sentence,dutch,Account bestaat niet
+Group name already exist,sentence,english,Group name already exist
+Group name already exist,sentence,dutch,Groepsnaam bestaat al
+User Group successfully created,sentence,english,User Group successfully created
+User Group successfully created,sentence,dutch,Gebruikersgroep aangemaakt
+User group(s) successfully deleted!,sentence,english,User group(s) successfully deleted!
+User group(s) successfully deleted!,sentence,dutch,Gebruikersgroep(en) verwijderd!
+User Group successfully updated,sentence,english,User Group successfully updated
+User Group successfully updated,sentence,dutch,Gebruikersgroep geupdatet
+New Task,text,english,New Task
+New Task,text,dutch,Nieuwe taak
+You have new course,text,english,You have new course
+You have new course,text,dutch,Je hebt een nieuwe cursus
+User Group successfully created,text,english,User Group successfully created
+User Group successfully created,text,dutch,Gebruikersgroep succesvol aangemaakt
+Course successfully deleted!,text,english,Course successfully deleted!
+Course successfully deleted!,text,dutch,Cursus succesvol verwijderd!
+New Group,text,english,New Group
+New Group,text,dutch,Nieuwe groep
+Course is in use!,text,english,Course is in use!
+Course is in use!,text,dutch,Cursus is in gebruik!
+User successfully created,text,english,User successfully created
+User successfully created,text,dutch,Gebruiker succesvol aangemaakt
+User(s) successfully deleted!,text,english,User(s) successfully deleted!
+User(s) successfully deleted!,text,dutch,Gebruiker (s) succesvol verwijderd!
+New Course,text,english,New Course
+New Course,text,dutch,Nieuwe cursus
+New Exercise,text,english,New Exercise
+New Exercise,text,dutch,Nieuwe oefening
+User Group successfully updated,text,english,User Group successfully updated
+User Group successfully updated,text,dutch,Gebruikersgroep succesvol bijgewerkt
+Course requirements successfully updated,text,english,Course requirements successfully updated
+Course requirements successfully updated,text,dutch,Cursusvereisten succesvol bijgewerkt
+User successfully updated!,text,english,User successfully updated!
+User successfully updated!,text,dutch,Gebruiker succesvol bijgewerkt!
+Video successfully added!,text,english,Video successfully added!
+Video successfully added!,text,dutch,Video succesvol toegevoegd!
+Video already exist!,text,english,Video already exist!
+Video already exist!,text,dutch,Video bestaat al!
+Video successfully deleted!,text,english,Video successfully deleted!
+Video successfully deleted!,text,dutch,Video succesvol verwijderd!
+Video not exist!,text,english,Video not exist!
+Video not exist!,text,dutch,Video bestaat niet!
+Course successfully uploaded!,sentence,english,Course successfully uploaded!
+Course successfully uploaded!,sentence,dutch,Cursus geupload!
+Questions are not enough!,sentence,english,Questions are not enough!
+Questions are not enough!,sentence,dutch,Vragen zijn niet genoeg!
+You have new Exercise!,sentence,english,You have new Exercise!
+You have new Exercise!,sentence,dutch,Nieuwe oefening beschikbaar!
+minute,text,english,minute
+minute,text,dutch,minuut
+hour,text,english,hour
+hour,text,dutch,uur
+hours,text,english,hours
+hours,text,dutch,uren
+second,text,english,second
+second,text,dutch,seconde
+seconds,text,english,seconds
+seconds,text,dutch,seconden
+Sequence successfully updated!,sentence,english,Sequence successfully updated!
+Sequence successfully updated!,sentence,dutch,Sequentie succesvol bijgewerkt!
+Please wait for the email to confirm course is uploaded!,sentence,english,Please wait for the email to confirm course is uploaded!
+Please wait for the email to confirm course is uploaded!,sentence,dutch,Wacht tot de e-mail om te bevestigen dat de cursus is geüpload!
+Please wait for the email to confirm course is updated!,sentence,english,Please wait for the email to confirm course is updated!
+Please wait for the email to confirm course is updated!,sentence,dutch,Wacht tot de e-mail om te bevestigen dat de cursus is bijgewerkt!
+Group name already exist,text,english,Group name already exist
+Group name already exist,text,dutch,Groepsnaam bestaat al
+Questions successfully uploaded!,text,english,Questions successfully uploaded!
+Questions successfully uploaded!,text,dutch,Vragen succesvol geüpload!
+User Role successfully updated!,text,english,User Role successfully updated!
+User Role successfully updated!,text,dutch,Gebruikersrol succesvol bijgewerkt!
+Group is in use!,text,english,Group is in use!
+Group is in use!,text,dutch,Groep is in gebruik!
+You have new course!,text,english,You have new course!
+You have new course!,text,dutch,Je hebt een nieuwe cursus!
+You have new group,text,english,You have new group
+You have new group,text,dutch,Je hebt een nieuwe groep
+Password successfully updated!,sentence,english,Sequence successfully updated!
+Password successfully updated!,sentence,dutch,Wachtwoord succesvol bijgewerkt!

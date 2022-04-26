@@ -1,0 +1,119 @@
+﻿type,name
+text,correct
+text,Correct
+text,incorrect
+text,Incorrect
+text,minutes
+text,day
+text,days
+text,Pass
+text,Not Pass
+sentence,No answer given
+sentence,You cannot skip this question
+text,Arithmetic
+text,Conceptual Math
+text,Contextual Math
+text,Algebra
+text,Calculus
+sentence,"Learn basic arithmetic skills with whole numbers, decimal numbers and fractions."
+sentence,Learn essential math concepts you need in everyday life.
+sentence,Learn to calculate in the context of story sums.
+sentence,Learn essential algebraic skills.
+sentence,Learn calculus.
+text,new levels
+text,reminders
+text,new tasks
+text,new medals
+text,Matching-type
+text,Multiple Response
+text,Fill in the Blanks
+text,Multiple Choice
+text,Fill in the Blanks Drag and Drop
+text,TRUE
+text,FALSE
+text,minutes
+text,Exercise
+text,Question
+text,Answer
+text,Correct Answer
+sentence,Invalid Token
+sentence,Course not found
+sentence,Please check your query!
+sentence,Course successfully created!
+sentence,Course successfully deleted!
+sentence,Course successfully updated!
+sentence,Course is in use!
+sentence,Question Type is required
+sentence,Exercise successfully created!
+sentence,No File!
+sentence,File Type Not Allowed!
+sentence,No Question ID found
+sentence,Course exercise not found
+sentence,Exercise not found
+sentence,Failed to generate questions
+sentence,New set of questions has been successfully generated
+sentence,Help already exist!
+sentence,Help successfully created
+sentence,Help successfully deleted!
+sentence,No available video for this skill!
+sentence,Help successfully updated!
+sentence,Instruction successfully created!
+sentence,Issue successfully created!
+sentence,Notification successfully created!
+sentence,Username does not exist!
+sentence,Username is already taken!
+sentence,Invalid email!
+sentence,User successfully created
+sentence,User(s) successfully deleted!
+sentence,Password successfully updated!
+sentence,Invalid Username or Password!
+sentence,User is deactivated!
+sentence,Successfully Logout!
+sentence,New Token generated!
+sentence,Invalid Refresh Token
+sentence,Invalid username or Authentication key!
+sentence,Password successfully updated!
+sentence,User Language successfully updated!
+sentence,User successfully updated!
+sentence,Account does not exist
+sentence,Group name already exist
+sentence,User Group successfully created
+sentence,User group(s) successfully deleted!
+sentence,User Group successfully updated
+sentence,"Sorry, you have no rights to access this!"
+sentence,"Invalid query, Missing parameter!"
+sentence,"Sorry, you have no rights to add user!"
+sentence,New Task
+sentence,You have new course
+sentence,User successfully created
+sentence,User(s) successfully deleted!
+sentence,User Group successfully created
+sentence,New Group
+sentence,Course is in use!
+sentence,New Course
+sentence,New Exercise
+sentence,User Group successfully updated
+sentence,Course requirements successfully updated
+sentence,User successfully updated!
+sentence,Video successfully added!
+sentence,Video already exist!
+sentence,Video successfully deleted!
+sentence,Video not exist!
+sentence,Course successfully uploaded!
+sentence,Questions are not enough!
+sentence,You have new Exercise!
+text,minute
+text,hour
+text,hours
+text,second
+text,seconds
+sentence,Sequence successfully updated!
+sentence,Please wait for the email to confirm course is uploaded!
+sentence,Please wait for the email to confirm course is updated!
+sentence,Group name already exist
+sentence,Questions successfully uploaded!
+sentence,User Role successfully updated!
+sentence,Group is in use!
+sentence,You have new course!
+sentence,You have new group
+sentence,Password successfully updated!

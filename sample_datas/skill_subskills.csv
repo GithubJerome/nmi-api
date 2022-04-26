@@ -1,0 +1,73 @@
+Skills,Subskills
+NN - addition,tables
+NN - addition,algorithm
+NN - addition,carrying
+NN - addition,double addition
+NN - addition,multiple addition
+NN - subtraction,tables
+NN - subtraction,algorithm
+NN - subtraction,borrowing
+NN - subtraction,multiple borrowing
+NN - subtraction,distant borrowing
+NN - multiplication,tables
+NN - multiplication,algorithm
+NN - multiplication,double multiplication
+NN - multiplication,multiple multiplication
+NN - multiplication,memorization
+NN - multiplication,tables
+NN - multiplication,algorithm
+NN - multiplication,remainder
+NN - multiplication,single digit divisor
+NN - multiplication,multidigit divisor
+QQ - addition,algorithm
+QQ - addition,different denominator
+QQ - addition,reduce
+QQ - subtraction,algorithm
+QQ - subtraction,different denominator
+QQ - subtraction,reduce
+QQ - multiplication,algorithm
+QQ - multiplication,reduce
+QQ - division,algorithm
+QQ - division,reduce
+DD - addition,algorithm
+DD - addition,carrying
+DD - addition,double addition
+DD - addition,multiple addition
+DD - subtraction,algorithm
+DD - subtraction,borrowing
+DD - subtraction,multiple borrowing
+DD - subtraction,distant borrowing
+DD - multiplication,algorithm
+DD - multiplication,powers of ten
+DD - multiplication,double multiplication
+DD - multiplication,multiple multiplication
+DD - multiplication,memorization
+DD - division,algorithm
+DD - division,powers of ten
+DD - division,single digit divisor
+DD - division,multidigit divisor
+DD - division,rounding
+Order of Operations,algorithm
+Order of Operations,brackets
+Metric System,length
+Metric System,area
+Metric System,small volume
+Metric System,large volume
+Metric System,weight
+Metric System,time
+Metric System,money
+Ratio Tables,algorithm
+Ratio Tables,double table
+Ratio Tables,triple table
+Ratio Tables,common divisor
+Percentages,algorithm
+Percentages,type 1
+Percentages,type 2
+Percentages,type 3
+Percentages,fraction to percentage
+Percentages,percentage to fraction
+Context Exercises,algorithm
+Context Exercises,direct
+Context Exercises,two step
+Context Exercises,three step
+Context Exercises,multistep
